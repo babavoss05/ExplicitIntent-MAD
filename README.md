@@ -172,9 +172,9 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![Screenshot (317)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/6a49ff47-795b-4ad5-907e-74fa0980b002)
-![Screenshot (318)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/8f25464c-2ac4-4bf8-8ef1-3379d247a26d)
-![Screenshot (319)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/8908d15a-e8d7-4544-aa69-9743a544f96f)
+![Screenshot (317)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/6a49ff47-795b-4ad5-907e-74fa0980b002) <br>
+![Screenshot (318)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/8f25464c-2ac4-4bf8-8ef1-3379d247a26d) <br>
+![Screenshot (319)](https://github.com/chgeethika/ExplicitIntent-MAD/assets/142209368/8908d15a-e8d7-4544-aa69-9743a544f96f) <br>
 
 
 
